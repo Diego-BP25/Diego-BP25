@@ -12,12 +12,9 @@
 
 <hr>
 
-<pre>
-Como desarrollador de software, me enfoco en crear soluciones eficientes, bien estructuradas y alineadas con los objetivos del
-proyecto. Me gusta involucrarme en todo el proceso de desarrollo, desde entender los requerimientos hasta poner en marcha el
-producto y seguir mejorándolo. Valoro la claridad en el desarrollo, el trabajo en equipo y la aplicación de buenas prácticas que
-hagan más eficientes y sostenibles las soluciones que construyo.
-</pre>
+<p>
+Como desarrollador de software, me enfoco en crear soluciones eficientes, bien estructuradas y alineadas con los objetivos del proyecto. Me gusta involucrarme en todo el proceso de desarrollo, desde entender los requerimientos hasta poner en marcha el producto y seguir mejorándolo. Valoro la claridad en el desarrollo, el trabajo en equipo y la aplicación de buenas prácticas que hagan más eficientes y sostenibles las soluciones que construyo.
+</p>
 <hr>
 <br>
 <h1 align="center">
@@ -27,11 +24,11 @@ hagan más eficientes y sostenibles las soluciones que construyo.
 
 <hr>
 
-<pre>
+<p>
 Me apasiona construir productos que generen impacto real. Me destaco por mi compromiso con la calidad, mi capacidad de autogestión
 y mi interés por el aprendizaje constante. Disfruto trabajar en equipo, resolver problemas complejos y aportar ideas que mejoren 
 tanto el desarrollo como el resultado final de cada proyecto.
-</pre>
+</p>
 <hr>
 <br>
 
